@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #5B8C51;
-    --secondary: #EDDD5E;
+    --primary: #387dff;
+    --secondary: #141d2d;
     --light: #F7F7F7;
     --dark: #404A3D;
 }
@@ -55,7 +55,7 @@
 
 .btn-secondary,
 .btn-outline-secondary:hover {
-    color: var(--dark);
+    color: var(--light);
 }
 
 .btn-square {
